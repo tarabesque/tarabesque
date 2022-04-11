@@ -1,8 +1,8 @@
-Hello, welcome my Profile!! I'm Cumali
+Hello, welcome my Profile!! 
 
- From Turkey. I am a full stack wep3 developer now.
+I'm Cumali From Turkey. I am a full stack wep3 developer now.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarabesque)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarabesque)](https://github.com/tarabesque/github-readme-stats)
 
 Lıke  Solidity, Truffle, Ganache, Javascript!!
 
