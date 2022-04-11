@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @tarabesque
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, welcome my Profile!!
 
-<!---
-tarabesque/tarabesque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Cumali From Turkey. I am a full stack wep3 developer now.
+
+Lıke  Solidity, Truffle, Ganache, Javascript!!
+
+I'm Enjoying because ım doıng whatever want.
